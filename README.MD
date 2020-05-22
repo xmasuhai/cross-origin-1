@@ -8,7 +8,7 @@ yarn global add node-dev
 
 1.下载代码
 
-[代码链接](https://github.com/FrankFang/kuayu-1)
+[代码链接 https://github.com/xmasuhai/cross-origin-1](https://github.com/xmasuhai/cross-origin-1)
 
 2.进入 qq-com 运行 server.js
 
